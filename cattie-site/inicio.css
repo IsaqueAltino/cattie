@@ -1,0 +1,92 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.kranky-regular {
+  font-family: "Kranky", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: "Kranky", serif;
+}
+
+.cattiename {
+  display: block;
+  margin: auto;
+  height: 100px;
+  padding-top: 40px;
+}
+
+.fundo {
+  position: absolute;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+}
+
+.convidar {
+  display: block;
+  margin: auto;
+  border-color: aliceblue;
+  border-radius: 15px;
+  background-color: rgb(47, 0, 134);
+  margin-top: 50px;
+  height: 100px;
+  width: 90%;
+  transition: 0.3s;
+}
+
+.convidar:hover {
+  height: 120px;
+  background-color: rgb(167, 73, 255);
+  transition: 0.3s;
+}
+
+.button {
+  display: block;
+  margin: auto;
+  border-color: aliceblue;
+  border-radius: 15px;
+  background-color: rgb(47, 0, 134);
+  margin-top: 20px;
+  height: 100px;
+  width: 90%;
+  transition: 0.3s;
+}
+
+.button:hover {
+  height: 120px;
+  background-color: rgb(167, 73, 255);
+  transition: 0.3s;
+}
+
+.cattiecat {
+  position: absolute;
+  width: 300px;
+  right: 0%;
+  bottom: 0%;
+}
+
+.serverlink {
+  display: block;
+  margin: auto;
+  border-color: aliceblue;
+  border-radius: 15px;
+  background-color: rgb(47, 0, 134);
+  margin-top: 20px;
+  height: 100px;
+  width: 90%;
+  transition: 0.3s;
+}
+
+.serverlink:hover {
+  height: 120px;
+  background-color: rgb(167, 73, 255);
+  transition: 0.3s;
+}

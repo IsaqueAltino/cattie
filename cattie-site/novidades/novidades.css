@@ -1,0 +1,50 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  color: white;
+}
+
+.kranky-regular {
+    font-family: "Kranky", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: "Kranky", serif;
+}
+
+.cattiename {
+  display: block;
+  margin: auto;
+  height: 100px;
+  padding-top: 40px;
+}
+
+.fundo {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+.novidadescategoria {
+  font-size: 40px;
+  margin-top: 40px;
+  padding: 2px;
+  background-color: rgb(166, 71, 255);
+}
+
+.novidades {
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.cattiecat {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 300px;
+}
